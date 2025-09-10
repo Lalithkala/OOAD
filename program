@@ -1,0 +1,10 @@
+package org.tcs;
+public class Myfirstprogram;{
+public statis void main (string[]args){
+    int a=15;
+    if (a>20)
+    system.out.println("a is greater than 10");
+    else
+    system.out.prinln("a is less than 10");
+}
+}
